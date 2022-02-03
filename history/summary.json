@@ -1,7 +1,7 @@
 [
   {
-    "name": "Eugene.Ng",
-    "url": "http://www.eugene.ng",
+    "name": "eugene.ng",
+    "url": "https://www.eugene.ng",
     "icon": "https://favicons.githubusercontent.com/www.eugene.ng",
     "slug": "eugene-ng",
     "status": "down",
@@ -18,8 +18,8 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Nginx",
-    "url": "http://nginx.eugene.ng",
+    "name": "nginx",
+    "url": "https://nginx.eugene.ng",
     "icon": "https://favicons.githubusercontent.com/nginx.eugene.ng",
     "slug": "nginx",
     "status": "up",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 510,
-    "timeWeek": 558,
-    "timeMonth": 397,
-    "timeYear": 397,
+    "time": 378,
+    "timeDay": 254,
+    "timeWeek": 487,
+    "timeMonth": 378,
+    "timeYear": 378,
     "dailyMinutesDown": {}
   }
 ]
