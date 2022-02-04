@@ -20,7 +20,7 @@ status-website:
   navbar:
     - title: status
       href: /
-    - title: gitHub
+    - title: github
       href: https://github.com/$OWNER/$REPO
   theme: dark
 
