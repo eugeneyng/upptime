@@ -1,7 +1,7 @@
 [
   {
     "name": "eugene.ng",
-    "url": "https://www.eugene.ng",
+    "url": "https://www.eugene.ng/hindex.html",
     "icon": "https://favicons.githubusercontent.com/www.eugene.ng",
     "slug": "eugene-ng",
     "status": "down",
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 343,
-    "timeWeek": 276,
+    "timeDay": 335,
+    "timeWeek": 283,
     "timeMonth": 344,
     "timeYear": 344,
     "dailyMinutesDown": {}
