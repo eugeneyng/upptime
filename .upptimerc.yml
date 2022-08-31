@@ -4,7 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: eugene.ng
-    url: https://www.eugene.ng/hindex.html
+    url: https://www.eugene.ng
+  - name: lnp.app
+    url: https://lnp.app
   - name: nginx
     url: https://nginx.eugene.ng
 
