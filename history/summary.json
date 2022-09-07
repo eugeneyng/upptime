@@ -40,9 +40,9 @@
     "url": "https://nginx.eugene.ng",
     "icon": "https://favicons.githubusercontent.com/nginx.eugene.ng",
     "slug": "nginx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 233,
     "timeMonth": 214,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-07": 0
+    }
   }
 ]
