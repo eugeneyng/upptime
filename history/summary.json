@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 142,
-    "timeWeek": 75,
-    "timeMonth": 81,
-    "timeYear": 213,
+    "time": 212,
+    "timeDay": 64,
+    "timeWeek": 77,
+    "timeMonth": 80,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/lnp.app",
     "slug": "lnp-app",
     "status": "up",
-    "uptime": "97.06%",
-    "uptimeDay": "63.79%",
+    "uptime": "97.28%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.83%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "97.06%",
-    "time": 173,
-    "timeDay": 182,
-    "timeWeek": 165,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "97.28%",
+    "time": 171,
+    "timeDay": 134,
+    "timeWeek": 164,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {
       "2022-09-12": 521
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 254,
-    "timeDay": 217,
-    "timeWeek": 144,
+    "time": 253,
+    "timeDay": 84,
+    "timeWeek": 146,
     "timeMonth": 205,
-    "timeYear": 254,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2022-09-07": 29
     }
