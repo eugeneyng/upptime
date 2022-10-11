@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 185,
-    "timeDay": 43,
-    "timeWeek": 82,
-    "timeMonth": 92,
-    "timeYear": 185,
+    "time": 184,
+    "timeDay": 132,
+    "timeWeek": 92,
+    "timeMonth": 95,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2022-09-15": 43
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lnp.app.ico",
     "slug": "lnp-app",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.81%",
-    "uptimeYear": "99.08%",
-    "time": 175,
-    "timeDay": 137,
+    "uptimeYear": "99.10%",
+    "time": 174,
+    "timeDay": 126,
     "timeWeek": 156,
     "timeMonth": 174,
-    "timeYear": 175,
+    "timeYear": 174,
     "dailyMinutesDown": {
       "2022-09-12": 521
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 251,
-    "timeDay": 190,
-    "timeWeek": 252,
-    "timeMonth": 219,
+    "timeDay": 185,
+    "timeWeek": 249,
+    "timeMonth": 222,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2022-09-07": 29
