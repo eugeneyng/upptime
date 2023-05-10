@@ -24,19 +24,19 @@
     "url": "https://dwelli.ng",
     "icon": "https://icons.duckduckgo.com/ip3/dwelli.ng.ico",
     "slug": "dwelli-ng",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 227,
-    "timeDay": 258,
-    "timeWeek": 281,
+    "timeDay": 264,
+    "timeWeek": 280,
     "timeMonth": 292,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2023-05-10": 0
+      "2023-05-10": 24
     }
   },
   {
