@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: eugene.ng
     url: https://eugeneyng.github.io/
+  - name: cassie.ng
+    url: https://cassie.ng
   - name: dwelli.ng
     url: https://dwelli.ng
   - name: lnp.app
