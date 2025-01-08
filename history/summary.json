@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 92,
-    "timeWeek": 99,
-    "timeMonth": 112,
+    "timeDay": 147,
+    "timeWeek": 101,
+    "timeMonth": 113,
     "timeYear": 106,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 598,
-    "timeDay": 356,
-    "timeWeek": 572,
-    "timeMonth": 556,
-    "timeYear": 598,
+    "time": 600,
+    "timeDay": 980,
+    "timeWeek": 665,
+    "timeMonth": 584,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2024-08-08": 27
     }
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
-    "time": 367,
-    "timeDay": 219,
-    "timeWeek": 255,
-    "timeMonth": 282,
+    "time": 366,
+    "timeDay": 592,
+    "timeWeek": 286,
+    "timeMonth": 291,
     "timeYear": 366,
     "dailyMinutesDown": {
       "2024-06-10": 25,
@@ -70,15 +70,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lnp.app.ico",
     "slug": "lnp-app",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.85%",
     "time": 182,
-    "timeDay": 146,
-    "timeWeek": 186,
-    "timeMonth": 179,
+    "timeDay": 291,
+    "timeWeek": 181,
+    "timeMonth": 182,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2024-06-10": 1242,
@@ -101,11 +101,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.07%",
-    "uptimeYear": "95.67%",
-    "time": 414,
-    "timeDay": 109,
-    "timeWeek": 416,
-    "timeMonth": 507,
+    "uptimeYear": "95.91%",
+    "time": 415,
+    "timeDay": 617,
+    "timeWeek": 439,
+    "timeMonth": 520,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2024-12-22": 193,
@@ -145,8 +145,7 @@
       "2024-02-02": 147,
       "2024-01-18": 61,
       "2024-01-17": 208,
-      "2024-01-10": 479,
-      "2024-01-08": 306
+      "2024-01-10": 479
     }
   }
 ]
