@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 142,
-    "timeWeek": 138,
-    "timeMonth": 161,
+    "timeDay": 138,
+    "timeWeek": 140,
+    "timeMonth": 158,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "97.59%",
     "time": 614,
-    "timeDay": 734,
-    "timeWeek": 562,
-    "timeMonth": 779,
+    "timeDay": 630,
+    "timeWeek": 601,
+    "timeMonth": 714,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2025-04-01": 28,
@@ -58,10 +58,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 379,
-    "timeDay": 382,
-    "timeWeek": 437,
-    "timeMonth": 534,
+    "time": 378,
+    "timeDay": 215,
+    "timeWeek": 436,
+    "timeMonth": 527,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2024-06-10": 25
@@ -79,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.85%",
     "time": 189,
-    "timeDay": 259,
-    "timeWeek": 210,
-    "timeMonth": 195,
+    "timeDay": 183,
+    "timeWeek": 208,
+    "timeMonth": 189,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2024-06-10": 1242,
@@ -100,15 +100,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.eugene.ng.ico",
     "slug": "nginx",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "95.98%",
     "time": 415,
-    "timeDay": 561,
+    "timeDay": 188,
     "timeWeek": 461,
-    "timeMonth": 562,
+    "timeMonth": 533,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2025-04-20": 244,
@@ -144,8 +144,7 @@
       "2024-05-05": 136,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 25
+      "2024-05-02": 1440
     }
   }
 ]
