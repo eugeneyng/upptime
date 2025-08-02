@@ -1,7 +1,7 @@
 url: https://nginx.eugene.ng
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-02T15:07:20.694Z
+status: up
+code: 200
+responseTime: 348
+lastUpdated: 2025-08-02T15:37:32.811Z
 startTime: 2022-01-23T15:21:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
