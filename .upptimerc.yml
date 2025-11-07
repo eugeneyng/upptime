@@ -13,6 +13,8 @@ sites:
     url: https://lnp.app
   - name: nginx
     url: https://nginx.eugene.ng
+  - name: ihostart
+    url: http://140.233.190.163
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
