@@ -131,19 +131,19 @@
     "url": "http://140.233.190.163",
     "icon": "https://icons.duckduckgo.com/ip3/140.233.190.163.ico",
     "slug": "ihostart",
-    "status": "down",
-    "uptime": "70.22%",
-    "uptimeDay": "70.22%",
-    "uptimeWeek": "70.22%",
-    "uptimeMonth": "70.22%",
-    "uptimeYear": "70.22%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "3.71%",
+    "uptimeDay": "3.71%",
+    "uptimeWeek": "3.71%",
+    "uptimeMonth": "3.71%",
+    "uptimeYear": "3.71%",
+    "time": 560,
+    "timeDay": 560,
+    "timeWeek": 560,
+    "timeMonth": 560,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2025-11-07": 0
+      "2025-11-07": 26
     }
   }
 ]
