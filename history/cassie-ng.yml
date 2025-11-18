@@ -1,7 +1,7 @@
 url: https://cassie.ng
-status: up
-code: 200
-responseTime: 457
-lastUpdated: 2025-11-17T23:03:51.963Z
+status: down
+code: 500
+responseTime: 228
+lastUpdated: 2025-11-18T11:35:24.300Z
 startTime: 2024-06-26T04:00:12.164Z
 generator: Upptime <https://github.com/upptime/upptime>
