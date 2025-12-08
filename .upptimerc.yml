@@ -13,8 +13,8 @@ sites:
     url: https://lnp.app
   - name: nginx
     url: https://nginx.eugene.ng
-  - name: ihostart
-    url: http://140.233.190.163
+  - name: pulsedmedia
+    url: https://lt3-1-142-164moira.pulsedmedia.com/user-eugene
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
