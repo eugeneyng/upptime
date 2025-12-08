@@ -67,12 +67,12 @@
     "uptimeMonth": "16.98%",
     "uptimeYear": "93.06%",
     "time": 393,
-    "timeDay": 217,
-    "timeWeek": 270,
-    "timeMonth": 325,
-    "timeYear": 377,
+    "timeDay": 223,
+    "timeWeek": 265,
+    "timeMonth": 322,
+    "timeYear": 376,
     "dailyMinutesDown": {
-      "2025-12-08": 102,
+      "2025-12-08": 103,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -128,7 +128,7 @@
     "slug": "nginx",
     "status": "up",
     "uptime": "98.41%",
-    "uptimeDay": "92.14%",
+    "uptimeDay": "92.15%",
     "uptimeWeek": "98.25%",
     "uptimeMonth": "98.42%",
     "uptimeYear": "98.59%",
@@ -167,16 +167,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lt3-1-142-164moira.pulsedmedia.com.ico",
     "slug": "pulsedmedia",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "7.16%",
+    "uptimeDay": "7.16%",
+    "uptimeWeek": "7.16%",
+    "uptimeMonth": "7.16%",
+    "uptimeYear": "7.16%",
     "time": 696,
     "timeDay": 696,
     "timeWeek": 696,
     "timeMonth": 696,
     "timeYear": 696,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-08": 0
+    }
   }
 ]
