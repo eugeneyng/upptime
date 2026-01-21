@@ -111,18 +111,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lnp.app.ico",
     "slug": "lnp-app",
     "status": "down",
-    "uptime": "98.38%",
+    "uptime": "98.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "61.09%",
-    "uptimeYear": "96.75%",
+    "uptimeMonth": "60.30%",
+    "uptimeYear": "96.69%",
     "time": 172,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 172,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2026-01-21": 28,
+      "2026-01-21": 375,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
@@ -180,9 +180,9 @@
     "url": "https://lt3-1-142-164moira.pulsedmedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/lt3-1-142-164moira.pulsedmedia.com.ico",
     "slug": "pulsedmedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -191,6 +191,8 @@
     "timeWeek": 602,
     "timeMonth": 645,
     "timeYear": 645,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-21": 0
+    }
   }
 ]
