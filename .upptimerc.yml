@@ -13,6 +13,8 @@ sites:
     url: https://lnp.app
   - name: nginx
     url: https://nginx.eugene.ng
+  - name: pangolin
+    url: https://pangolin.sharewith.cyou
   - name: pulsedmedia
     url: https://lt3-1-142-164moira.pulsedmedia.com
 
