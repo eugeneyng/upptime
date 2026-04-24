@@ -17,6 +17,8 @@ sites:
     url: https://pangolin.sharewith.cyou
   - name: pulsedmedia
     url: https://lt3-1-142-164moira.pulsedmedia.com
+  - name: qbittorrent
+    url: https://qbittorrent.eugene.ng
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
