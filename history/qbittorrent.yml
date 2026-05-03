@@ -1,7 +1,7 @@
 url: https://qbittorrent.eugene.ng
-status: up
-code: 200
-responseTime: 900
-lastUpdated: 2026-05-02T23:16:20.590Z
+status: down
+code: 502
+responseTime: 1241
+lastUpdated: 2026-05-03T01:04:53.158Z
 startTime: 2026-04-24T02:57:40.203Z
 generator: Upptime <https://github.com/upptime/upptime>
