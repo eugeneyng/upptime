@@ -190,17 +190,17 @@
     "url": "https://pangolin.sharewith.cyou",
     "icon": "https://icons.duckduckgo.com/ip3/pangolin.sharewith.cyou.ico",
     "slug": "pangolin",
-    "status": "down",
-    "uptime": "78.45%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "88.93%",
-    "uptimeMonth": "79.97%",
-    "uptimeYear": "78.45%",
-    "time": 1478,
-    "timeDay": 3808,
-    "timeWeek": 1332,
-    "timeMonth": 2795,
-    "timeYear": 1478,
+    "status": "up",
+    "uptime": "78.19%",
+    "uptimeDay": "64.87%",
+    "uptimeWeek": "88.94%",
+    "uptimeMonth": "78.81%",
+    "uptimeYear": "78.19%",
+    "time": 1484,
+    "timeDay": 2945,
+    "timeWeek": 1426,
+    "timeMonth": 2771,
+    "timeYear": 1484,
     "dailyMinutesDown": {
       "2026-02-25": 243,
       "2026-02-27": 916,
@@ -237,7 +237,7 @@
       "2026-06-07": 229,
       "2026-06-06": 1440,
       "2026-06-05": 880,
-      "2026-06-13": 0
+      "2026-06-13": 506
     }
   },
   {
@@ -274,11 +274,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.eugene.ng.ico",
     "slug": "qbittorrent",
     "status": "down",
-    "uptime": "54.93%",
+    "uptime": "54.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "71.44%",
-    "uptimeMonth": "29.99%",
-    "uptimeYear": "54.93%",
+    "uptimeMonth": "28.83%",
+    "uptimeYear": "54.55%",
     "time": 316,
     "timeDay": 375,
     "timeWeek": 556,
@@ -314,7 +314,7 @@
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 942,
-      "2026-06-13": 554,
+      "2026-06-13": 1060,
       "2026-06-12": 1210
     }
   }
