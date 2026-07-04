@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cassie.ng.ico",
     "slug": "cassie-ng",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -151,11 +151,11 @@
     "url": "https://nginx.eugene.ng",
     "icon": "https://icons.duckduckgo.com/ip3/nginx.eugene.ng.ico",
     "slug": "nginx",
-    "status": "up",
+    "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.04%",
     "time": 359,
     "timeDay": 179,
@@ -181,7 +181,8 @@
       "2026-05-06": 135,
       "2026-05-09": 140,
       "2026-05-17": 803,
-      "2026-05-21": 73
+      "2026-05-21": 73,
+      "2026-07-04": 5
     }
   },
   {
@@ -190,14 +191,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/pangolin.sharewith.cyou.ico",
     "slug": "pangolin",
     "status": "up",
-    "uptime": "79.24%",
+    "uptime": "79.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.38%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "82.84%",
-    "uptimeYear": "79.24%",
+    "uptimeYear": "79.36%",
     "time": 1554,
     "timeDay": 348,
-    "timeWeek": 1864,
+    "timeWeek": 1296,
     "timeMonth": 1741,
     "timeYear": 1554,
     "dailyMinutesDown": {
@@ -276,12 +277,12 @@
     "url": "https://qbittorrent.eugene.ng",
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.eugene.ng.ico",
     "slug": "qbittorrent",
-    "status": "up",
-    "uptime": "62.15%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "62.55%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "73.64%",
-    "uptimeMonth": "72.15%",
-    "uptimeYear": "62.15%",
+    "uptimeMonth": "74.61%",
+    "uptimeYear": "62.55%",
     "time": 301,
     "timeDay": 221,
     "timeWeek": 281,
@@ -324,7 +325,8 @@
       "2026-06-25": 171,
       "2026-07-02": 335,
       "2026-07-01": 1440,
-      "2026-06-30": 882
+      "2026-06-30": 882,
+      "2026-07-04": 0
     }
   }
 ]
