@@ -153,9 +153,9 @@
     "url": "https://nginx.eugene.ng",
     "icon": "https://icons.duckduckgo.com/ip3/nginx.eugene.ng.ico",
     "slug": "nginx",
-    "status": "up",
+    "status": "down",
     "uptime": "98.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.03%",
@@ -184,7 +184,8 @@
       "2026-05-09": 140,
       "2026-05-17": 803,
       "2026-05-21": 73,
-      "2026-07-04": 80
+      "2026-07-04": 80,
+      "2026-07-20": 0
     }
   },
   {
@@ -193,11 +194,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pangolin.sharewith.cyou.ico",
     "slug": "pangolin",
     "status": "up",
-    "uptime": "81.53%",
+    "uptime": "81.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.81%",
-    "uptimeYear": "81.53%",
+    "uptimeYear": "81.55%",
     "time": 1567,
     "timeDay": 7229,
     "timeWeek": 2531,
@@ -279,12 +280,12 @@
     "url": "https://qbittorrent.eugene.ng",
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.eugene.ng.ico",
     "slug": "qbittorrent",
-    "status": "up",
-    "uptime": "69.05%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "69.11%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.37%",
-    "uptimeYear": "69.05%",
+    "uptimeYear": "69.11%",
     "time": 310,
     "timeDay": 144,
     "timeWeek": 321,
@@ -328,7 +329,8 @@
       "2026-07-02": 335,
       "2026-07-01": 1440,
       "2026-06-30": 882,
-      "2026-07-04": 75
+      "2026-07-04": 75,
+      "2026-07-20": 0
     }
   }
 ]
